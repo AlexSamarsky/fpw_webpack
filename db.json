@@ -1,0 +1,11 @@
+{
+    "sports": [{
+            "id": 1,
+            "name": "football"
+        },
+        {
+            "id": 2,
+            "name": "hockey"
+        }
+    ]
+}
